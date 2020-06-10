@@ -1,2 +1,2 @@
 # TouchLessCircuit
-Program to build a Touchless Circuit to act like a switch to turn LED ON/OFF.
+Program to build a Touchless Circuit using a Microcontroller(Arduino in this case) and a Touch-Capacitor Sensor(TTP223B) to act like a switch to turn LED ON/OFF. When our finger approaches the sensor, the sensor and our finger transform into walls of a capacitor and the air in between transforms into a conducting medium of a capacitor. A working capacitor is formed which in turns acts as a switch to control the LED.
